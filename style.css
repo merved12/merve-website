@@ -315,8 +315,8 @@ footer{
     }
 
     .nav_links{
-        flex-direction: flex; 
-        width: 75%; 
+        flex-direction: column; 
+        width: 90%; 
     }
 
     .inner_anasayfa{
