@@ -70,7 +70,7 @@ header{
     transition: all .5s ease-in-out;
 }
 .nav_links li a:hover{
-    background: #000000;
+    background: #019c1b;
 }
 
 .logo h2 a{
@@ -114,7 +114,7 @@ header{
     background: #000000;
     padding: 8px 22px;
     border-radius: 15px;
-    border: 1px solid #ff7504;
+    border: 1px solid #000000;
     color: #fff;
     font-weight: 700;
     cursor: pointer;
